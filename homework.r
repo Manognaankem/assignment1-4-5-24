@@ -1,3 +1,4 @@
+#manogna ankem
 # Define the vector of numbers
 n <- c(7, 12, 5)
 avg <- mean(n)
